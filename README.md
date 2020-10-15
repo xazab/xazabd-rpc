@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/xazabevo/xazabd-rpc.svg?branch=master)](https://travis-ci.org/xazabevo/xazabd-rpc)
 [![NPM Package](https://img.shields.io/npm/v/@xazabevo/xazabd-rpc.svg)](https://www.npmjs.org/package/@xazabevo/xazabd-rpc)
 
-> Dash Client Library to connect to Dash Core (xazabd) via RPC
+> Xazab Client Library to connect to Xazab Core (xazabd) via RPC
 
 ## Install
 
@@ -141,4 +141,4 @@ Feel free to dive in! [Open an issue](https://github.com/xazabevo/xazab-std-temp
 
 ## License
 
-[MIT](LICENSE) &copy; Dash Core Group, Inc.
+[MIT](LICENSE) &copy; Xazab Core Group, Inc.
